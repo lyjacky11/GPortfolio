@@ -147,8 +147,7 @@ export default {
        * @type {string}
        * @see https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line
        */
-      // token: process.env.GITHUB_TOKEN || '',
-	  token: '0706ea0a3b5adc9d9a25265c87cf74f6eb3da126',
+      token: process.env.GITHUB_TOKEN || '',
 
       /**
        * Various configurations are stored that will filter
