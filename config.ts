@@ -104,7 +104,7 @@ export default {
     /**
      * @type {string}
      */
-    position: 'Software Developer',
+    position: 'Computer Science Co-op',
 
     /**
      * Searching for a job
