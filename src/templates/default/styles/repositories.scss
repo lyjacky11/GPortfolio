@@ -1,3 +1,7 @@
+.uk-heading-line {
+	color: #0366d6;
+}
+
 .repositories {
   display: flex;
   flex-wrap: wrap;
@@ -8,7 +12,7 @@
   padding: 15px;
   color: rgba(0, 0, 0, .9);
   .repository__name {
-    color: #474a73;
+    color: #0366d6;
   }
   .repository__name,
   .repository__bottom {

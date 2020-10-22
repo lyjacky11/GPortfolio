@@ -295,13 +295,13 @@ export default {
        *  0 - display all
        * @type {number}
        */
-      github_repositories_more: 25,
+      github_repositories_more: 0,
 
       /**
        * Same as github_repositories_more
        * @type {number}
        */
-      dribbble_shots_more: 25,
+      dribbble_shots_more: 0,
     },
   },
 };
