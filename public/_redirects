@@ -4,7 +4,7 @@
 # https://jacky-projects.netlify.app/* https://projects.jackyly.ca/:splat 301!
 
 # Support for client-side routing
-/*  /index.html  200
+# /*  /index.html  200
 
 # Internal redirects
 
